@@ -1,0 +1,18 @@
+.plot {
+  font-weight: bolder;
+}
+
+.title {
+  font-size: 1.3rem;
+  font-weight: bold;
+}
+
+.scroll {
+  max-height: 500px;
+  overflow-y: scroll;
+}
+
+.poster {
+  border: 8px solid whitesmoke;
+  border-radius: 4px;
+}
