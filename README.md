@@ -1,5 +1,7 @@
 # get-movie-info
 
+NOT WORKING ANYMORE BECAUSE OF THE API
+
 https://get-movie-info.herokuapp.com/
 
 My first experience with react and api
